@@ -1,0 +1,1 @@
+Run build_all_VS2019_x64.bat on Windows. The three DLLs will be produced here.

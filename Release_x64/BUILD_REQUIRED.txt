@@ -1,0 +1,8 @@
+﻿这里不会放置伪造 DLL。
+
+当前 ChatGPT 执行环境不是 Windows + MSVC/VS2019，无法真正链接出 foobar2000 可加载的 PE x64 DLL。
+请在 Windows 上运行：
+  scripts\Build_VS2019_x64.bat
+
+编译成功后这里会生成：
+  foo_easy_audio_settings.dll
